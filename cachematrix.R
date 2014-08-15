@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Function to create a matrix (set) and call it (get).
 
 makeCacheMatrix <- function(x = matrix()) {
